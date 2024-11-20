@@ -21,9 +21,7 @@ void selectionSort(std::vector<std::string>& data) {
     }
 }
 
-// Função principal
 int main() {
-    // Configuração de conexão com o banco de dados
     const std::string dbHost = ""; 
     const std::string dbUser = "";
     const std::string dbPass = "";
