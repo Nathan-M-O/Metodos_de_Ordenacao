@@ -1,0 +1,6079 @@
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10dup0.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10dup1.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10dup2.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10dup3.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10dup4.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10dup5.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10dup6.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10dup7.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10dup8.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10dup9.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100dup0.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100dup1.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100dup2.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100dup3.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100dup4.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100dup5.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100dup6.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100dup7.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100dup8.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100dup9.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kdup0.txt'
+INTO TABLE tabela_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kdup1.txt'
+INTO TABLE tabela_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kdup2.txt'
+INTO TABLE tabela_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kdup3.txt'
+INTO TABLE tabela_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kdup4.txt'
+INTO TABLE tabela_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kdup5.txt'
+INTO TABLE tabela_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kdup6.txt'
+INTO TABLE tabela_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kdup7.txt'
+INTO TABLE tabela_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kdup8.txt'
+INTO TABLE tabela_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kdup9.txt'
+INTO TABLE tabela_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kdup0.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kdup1.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kdup2.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kdup3.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kdup4.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kdup5.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kdup6.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kdup7.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kdup8.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kdup9.txt'
+INTO TABLE tabela_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kdup0.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kdup1.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kdup2.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kdup3.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kdup4.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kdup5.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kdup6.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kdup7.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kdup8.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kdup9.txt'
+INTO TABLE tabela_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores); 
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10dup0.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10dup1.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10dup2.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10dup3.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10dup4.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10dup5.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10dup6.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10dup7.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10dup8.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10dup9.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_concavo_crescente_decrescente_100
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100dup0.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100dup1.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100dup2.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100dup3.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100dup4.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100dup5.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100dup6.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100dup7.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100dup8.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100dup9.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_concavo_crescente_decrescente_1k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kdup0.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kdup1.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kdup2.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kdup3.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kdup4.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kdup5.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kdup6.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kdup7.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kdup8.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kdup9.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_concavo_crescente_decrescente_10k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kdup0.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kdup1.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kdup2.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kdup3.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kdup4.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kdup5.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kdup6.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kdup7.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kdup8.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kdup9.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_concavo_crescente_decrescente_100k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kdup0.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kdup1.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kdup2.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kdup3.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kdup4.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kdup5.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kdup6.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kdup7.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kdup8.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kdup9.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_concavo_crescente_decrescente_50
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50dup0.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50dup1.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50dup2.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50dup3.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50dup4.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50dup5.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50dup6.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50dup7.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50dup8.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50dup9.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_concavo_crescente_decrescente_500
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500dup0.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500dup1.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500dup2.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500dup3.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500dup4.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500dup5.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500dup6.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500dup7.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500dup8.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500dup9.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_concavo_crescente_decrescente_5k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kdup0.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kdup1.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kdup2.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kdup3.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kdup4.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kdup5.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kdup6.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kdup7.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kdup8.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kdup9.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_concavo_crescente_decrescente_50k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kdup0.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kdup1.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kdup2.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kdup3.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kdup4.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kdup5.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kdup6.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kdup7.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kdup8.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kdup9.txt'
+INTO TABLE tabela_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_convexo_crescente_decrescente_10
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10dup0.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10dup1.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10dup2.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10dup3.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10dup4.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10dup5.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10dup6.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10dup7.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10dup8.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10dup9.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_convexo_crescente_decrescente_100
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100dup0.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100dup1.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100dup2.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100dup3.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100dup4.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100dup5.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100dup6.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100dup7.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100dup8.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100dup9.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_convexo_crescente_decrescente_1k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kdup0.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kdup1.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kdup2.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kdup3.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kdup4.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kdup5.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kdup6.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kdup7.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kdup8.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kdup9.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_convexo_crescente_decrescente_10k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kdup0.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kdup1.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kdup2.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kdup3.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kdup4.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kdup5.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kdup6.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kdup7.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kdup8.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kdup9.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_convexo_crescente_decrescente_100k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kdup0.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kdup1.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kdup2.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kdup3.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kdup4.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kdup5.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kdup6.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kdup7.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kdup8.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kdup9.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_convexo_crescente_decrescente_50
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50dup0.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50dup1.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50dup2.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50dup3.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50dup4.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50dup5.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50dup6.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50dup7.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50dup8.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50dup9.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_convexo_crescente_decrescente_500
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500dup0.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500dup1.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500dup2.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500dup3.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500dup4.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500dup5.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500dup6.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500dup7.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500dup8.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500dup9.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_convexo_crescente_decrescente_5k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kdup0.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kdup1.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kdup2.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kdup3.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kdup4.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kdup5.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kdup6.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kdup7.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kdup8.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kdup9.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_convexo_crescente_decrescente_50k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kdup0.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kdup1.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kdup2.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kdup3.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kdup4.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kdup5.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kdup6.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kdup7.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kdup8.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kdup9.txt'
+INTO TABLE tabela_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_crescente_10
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10dup0.txt'
+INTO TABLE tabela_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10dup1.txt'
+INTO TABLE tabela_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10dup2.txt'
+INTO TABLE tabela_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10dup3.txt'
+INTO TABLE tabela_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10dup4.txt'
+INTO TABLE tabela_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10dup5.txt'
+INTO TABLE tabela_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10dup6.txt'
+INTO TABLE tabela_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10dup7.txt'
+INTO TABLE tabela_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10dup8.txt'
+INTO TABLE tabela_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10dup9.txt'
+INTO TABLE tabela_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_crescente_100
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100dup0.txt'
+INTO TABLE tabela_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100dup1.txt'
+INTO TABLE tabela_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100dup2.txt'
+INTO TABLE tabela_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100dup3.txt'
+INTO TABLE tabela_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100dup4.txt'
+INTO TABLE tabela_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100dup5.txt'
+INTO TABLE tabela_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100dup6.txt'
+INTO TABLE tabela_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100dup7.txt'
+INTO TABLE tabela_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100dup8.txt'
+INTO TABLE tabela_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100dup9.txt'
+INTO TABLE tabela_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_crescente_1k
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kdup0.txt'
+INTO TABLE tabela_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kdup1.txt'
+INTO TABLE tabela_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kdup2.txt'
+INTO TABLE tabela_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kdup3.txt'
+INTO TABLE tabela_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kdup4.txt'
+INTO TABLE tabela_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kdup5.txt'
+INTO TABLE tabela_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kdup6.txt'
+INTO TABLE tabela_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kdup7.txt'
+INTO TABLE tabela_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kdup8.txt'
+INTO TABLE tabela_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kdup9.txt'
+INTO TABLE tabela_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_crescente_10k
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kdup0.txt'
+INTO TABLE tabela_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kdup1.txt'
+INTO TABLE tabela_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kdup2.txt'
+INTO TABLE tabela_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kdup3.txt'
+INTO TABLE tabela_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kdup4.txt'
+INTO TABLE tabela_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kdup5.txt'
+INTO TABLE tabela_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kdup6.txt'
+INTO TABLE tabela_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kdup7.txt'
+INTO TABLE tabela_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kdup8.txt'
+INTO TABLE tabela_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kdup9.txt'
+INTO TABLE tabela_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_crescente_100k
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100kdup0.txt'
+INTO TABLE tabela_duplicidade_crescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100kdup1.txt'
+INTO TABLE tabela_duplicidade_crescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100kdup2.txt'
+INTO TABLE tabela_duplicidade_crescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100kdup3.txt'
+INTO TABLE tabela_duplicidade_crescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100kdup4.txt'
+INTO TABLE tabela_duplicidade_crescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100kdup5.txt'
+INTO TABLE tabela_duplicidade_crescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100kdup6.txt'
+INTO TABLE tabela_duplicidade_crescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100kdup7.txt'
+INTO TABLE tabela_duplicidade_crescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100kdup8.txt'
+INTO TABLE tabela_duplicidade_crescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100kdup9.txt'
+INTO TABLE tabela_duplicidade_crescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_crescente_50
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50dup0.txt'
+INTO TABLE tabela_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50dup1.txt'
+INTO TABLE tabela_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50dup2.txt'
+INTO TABLE tabela_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50dup3.txt'
+INTO TABLE tabela_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50dup4.txt'
+INTO TABLE tabela_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50dup5.txt'
+INTO TABLE tabela_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50dup6.txt'
+INTO TABLE tabela_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50dup7.txt'
+INTO TABLE tabela_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50dup8.txt'
+INTO TABLE tabela_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50dup9.txt'
+INTO TABLE tabela_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_crescente_500
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500dup0.txt'
+INTO TABLE tabela_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500dup1.txt'
+INTO TABLE tabela_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500dup2.txt'
+INTO TABLE tabela_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500dup3.txt'
+INTO TABLE tabela_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500dup4.txt'
+INTO TABLE tabela_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500dup5.txt'
+INTO TABLE tabela_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500dup6.txt'
+INTO TABLE tabela_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500dup7.txt'
+INTO TABLE tabela_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500dup8.txt'
+INTO TABLE tabela_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500dup9.txt'
+INTO TABLE tabela_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_crescente_5k
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kdup0.txt'
+INTO TABLE tabela_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kdup1.txt'
+INTO TABLE tabela_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kdup2.txt'
+INTO TABLE tabela_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kdup3.txt'
+INTO TABLE tabela_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kdup4.txt'
+INTO TABLE tabela_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kdup5.txt'
+INTO TABLE tabela_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kdup6.txt'
+INTO TABLE tabela_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kdup7.txt'
+INTO TABLE tabela_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kdup8.txt'
+INTO TABLE tabela_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kdup9.txt'
+INTO TABLE tabela_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_crescente_50k
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kdup0.txt'
+INTO TABLE tabela_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kdup1.txt'
+INTO TABLE tabela_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kdup2.txt'
+INTO TABLE tabela_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kdup3.txt'
+INTO TABLE tabela_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kdup4.txt'
+INTO TABLE tabela_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kdup5.txt'
+INTO TABLE tabela_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kdup6.txt'
+INTO TABLE tabela_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kdup7.txt'
+INTO TABLE tabela_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kdup8.txt'
+INTO TABLE tabela_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kdup9.txt'
+INTO TABLE tabela_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_decrescente_10
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10dup0.txt'
+INTO TABLE tabela_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10dup1.txt'
+INTO TABLE tabela_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10dup2.txt'
+INTO TABLE tabela_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10dup3.txt'
+INTO TABLE tabela_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10dup4.txt'
+INTO TABLE tabela_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10dup5.txt'
+INTO TABLE tabela_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10dup6.txt'
+INTO TABLE tabela_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10dup7.txt'
+INTO TABLE tabela_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10dup8.txt'
+INTO TABLE tabela_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10dup9.txt'
+INTO TABLE tabela_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_decrescente_100k
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100kdup0.txt'
+INTO TABLE tabela_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100kdup1.txt'
+INTO TABLE tabela_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100kdup2.txt'
+INTO TABLE tabela_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100kdup3.txt'
+INTO TABLE tabela_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100kdup4.txt'
+INTO TABLE tabela_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100kdup5.txt'
+INTO TABLE tabela_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100kdup6.txt'
+INTO TABLE tabela_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100kdup7.txt'
+INTO TABLE tabela_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100kdup8.txt'
+INTO TABLE tabela_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100kdup9.txt'
+INTO TABLE tabela_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_decrescente_50
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50dup0.txt'
+INTO TABLE tabela_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50dup1.txt'
+INTO TABLE tabela_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50dup2.txt'
+INTO TABLE tabela_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50dup3.txt'
+INTO TABLE tabela_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50dup4.txt'
+INTO TABLE tabela_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50dup5.txt'
+INTO TABLE tabela_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50dup6.txt'
+INTO TABLE tabela_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50dup7.txt'
+INTO TABLE tabela_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50dup8.txt'
+INTO TABLE tabela_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50dup9.txt'
+INTO TABLE tabela_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_decrescente_500
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre500dup0.txt'
+INTO TABLE tabela_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre500dup1.txt'
+INTO TABLE tabela_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre500dup2.txt'
+INTO TABLE tabela_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre500dup3.txt'
+INTO TABLE tabela_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre500dup4.txt'
+INTO TABLE tabela_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre500dup5.txt'
+INTO TABLE tabela_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre500dup6.txt'
+INTO TABLE tabela_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre500dup7.txt'
+INTO TABLE tabela_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre500dup8.txt'
+INTO TABLE tabela_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre500dup9.txt'
+INTO TABLE tabela_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_decrescente_5k
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre5kdup0.txt'
+INTO TABLE tabela_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre5kdup1.txt'
+INTO TABLE tabela_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre5kdup2.txt'
+INTO TABLE tabela_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre5kdup3.txt'
+INTO TABLE tabela_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre5kdup4.txt'
+INTO TABLE tabela_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre5kdup5.txt'
+INTO TABLE tabela_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre5kdup6.txt'
+INTO TABLE tabela_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre5kdup7.txt'
+INTO TABLE tabela_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre5kdup8.txt'
+INTO TABLE tabela_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre5kdup9.txt'
+INTO TABLE tabela_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_decrescente_50k
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50kdup0.txt'
+INTO TABLE tabela_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50kdup1.txt'
+INTO TABLE tabela_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50kdup2.txt'
+INTO TABLE tabela_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50kdup3.txt'
+INTO TABLE tabela_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50kdup4.txt'
+INTO TABLE tabela_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50kdup5.txt'
+INTO TABLE tabela_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50kdup6.txt'
+INTO TABLE tabela_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50kdup7.txt'
+INTO TABLE tabela_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50kdup8.txt'
+INTO TABLE tabela_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre50kdup9.txt'
+INTO TABLE tabela_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_decrescente_100
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100dup0.txt'
+INTO TABLE tabela_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100dup1.txt'
+INTO TABLE tabela_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100dup2.txt'
+INTO TABLE tabela_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100dup3.txt'
+INTO TABLE tabela_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100dup4.txt'
+INTO TABLE tabela_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100dup5.txt'
+INTO TABLE tabela_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100dup6.txt'
+INTO TABLE tabela_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100dup7.txt'
+INTO TABLE tabela_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100dup8.txt'
+INTO TABLE tabela_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre100dup9.txt'
+INTO TABLE tabela_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_decrescente_1k
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre1kdup0.txt'
+INTO TABLE tabela_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre1kdup1.txt'
+INTO TABLE tabela_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre1kdup2.txt'
+INTO TABLE tabela_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre1kdup3.txt'
+INTO TABLE tabela_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre1kdup4.txt'
+INTO TABLE tabela_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre1kdup5.txt'
+INTO TABLE tabela_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre1kdup6.txt'
+INTO TABLE tabela_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre1kdup7.txt'
+INTO TABLE tabela_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre1kdup8.txt'
+INTO TABLE tabela_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre1kdup9.txt'
+INTO TABLE tabela_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_duplicidade_decrescente_10k
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10kdup0.txt'
+INTO TABLE tabela_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10kdup1.txt'
+INTO TABLE tabela_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10kdup2.txt'
+INTO TABLE tabela_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10kdup3.txt'
+INTO TABLE tabela_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10kdup4.txt'
+INTO TABLE tabela_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10kdup5.txt'
+INTO TABLE tabela_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10kdup6.txt'
+INTO TABLE tabela_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10kdup7.txt'
+INTO TABLE tabela_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10kdup8.txt'
+INTO TABLE tabela_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecre10kdup9.txt'
+INTO TABLE tabela_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_aleatorio_10
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10uni0.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10uni1.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10uni2.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10uni3.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10uni4.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10uni5.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10uni6.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10uni7.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10uni8.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10uni9.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_aleatorio_100
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100uni0.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100uni1.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100uni2.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100uni3.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100uni4.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100uni5.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100uni6.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100uni7.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100uni8.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100uni9.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_aleatorio_1k
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat1kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_aleatorio_10k
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat10kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_aleatorio_100k
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat100kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_aleatorio_50
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50uni0.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50uni1.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50uni2.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50uni3.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50uni4.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50uni5.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50uni6.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50uni7.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50uni8.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50uni9.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_aleatorio_500
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat500uni0.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat500uni1.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat500uni2.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat500uni3.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat500uni4.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat500uni5.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat500uni6.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat500uni7.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat500uni8.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat500uni9.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_aleatorio_5k
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat5kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat5kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat5kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat5kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat5kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat5kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat5kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat5kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat5kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat5kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_aleatorio_50k
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtaleat50kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_aleatorio_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10uni0.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10uni1.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10uni2.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10uni3.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10uni4.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10uni5.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10uni6.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10uni7.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10uni8.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10uni9.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_concavo_crescente_decrescente_100
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100uni0.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100uni1.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100uni2.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100uni3.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100uni4.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100uni5.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100uni6.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100uni7.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100uni8.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100uni9.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_concavo_crescente_decrescente_1k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv1kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_concavo_crescente_decrescente_10k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv10kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_concavo_crescente_decrescente_100k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv100kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_concavo_crescente_decrescente_50
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50uni0.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50uni1.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50uni2.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50uni3.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50uni4.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50uni5.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50uni6.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50uni7.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50uni8.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50uni9.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_concavo_crescente_decrescente_500
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500uni0.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500uni1.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500uni2.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500uni3.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500uni4.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500uni5.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500uni6.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500uni7.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500uni8.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv500uni9.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_concavo_crescente_decrescente_5k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv5kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_concavo_crescente_decrescente_50k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconcv50kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_convexo_crescente_decrescente_10
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10uni0.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10uni1.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10uni2.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10uni3.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10uni4.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10uni5.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10uni6.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10uni7.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10uni8.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10uni9.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_convexo_crescente_decrescente_100
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100uni0.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100uni1.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100uni2.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100uni3.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100uni4.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100uni5.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100uni6.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100uni7.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100uni8.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100uni9.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_convexo_crescente_decrescente_1k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx1kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_convexo_crescente_decrescente_10k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx10kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_convexo_crescente_decrescente_100k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx100kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_convexo_crescente_decrescente_50
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50uni0.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50uni1.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50uni2.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50uni3.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50uni4.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50uni5.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50uni6.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50uni7.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50uni8.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50uni9.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_convexo_crescente_decrescente_500
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500uni0.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500uni1.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500uni2.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500uni3.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500uni4.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500uni5.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500uni6.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500uni7.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500uni8.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx500uni9.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_convexo_crescente_decrescente_5k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx5kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+-- Tabela: tabela_sem_duplicidade_convexo_crescente_decrescente_50k
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtconvx50kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10uni0.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10uni1.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10uni2.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10uni3.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10uni4.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10uni5.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10uni6.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10uni7.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10uni8.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10uni9.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100uni0.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100uni1.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100uni2.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100uni3.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100uni4.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100uni5.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100uni6.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100uni7.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100uni8.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc100uni9.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc1kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc10kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50uni0.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50uni1.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50uni2.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50uni3.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50uni4.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50uni5.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50uni6.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50uni7.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50uni8.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50uni9.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500uni0.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500uni1.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500uni2.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500uni3.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500uni4.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500uni5.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500uni6.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500uni7.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500uni8.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc500uni9.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc5kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtcresc50kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_crescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10uni0.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10uni1.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10uni2.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10uni3.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10uni4.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10uni5.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10uni6.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10uni7.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10uni8.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10uni9.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100uni0.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100uni1.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100uni2.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100uni3.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100uni4.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100uni5.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100uni6.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100uni7.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100uni8.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100uni9.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec1kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec1kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec1kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec1kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec1kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec1kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec1kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec1kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec1kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec1kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_1k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec10kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_10k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec100kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_100k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni0.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni1.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni2.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni3.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni4.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni5.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni6.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni7.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni8.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni9.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni0.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni1.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni2.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni3.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni4.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni5.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni6.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni7.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni8.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50uni9.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec500uni0.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec500uni1.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec500uni2.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec500uni3.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec500uni4.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec500uni5.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec500uni6.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec500uni7.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec500uni8.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec500uni9.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_500
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec5kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec5kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec5kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec5kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec5kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec5kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec5kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec5kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec5kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec5kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_5k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50kuni0.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50kuni1.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50kuni2.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50kuni3.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50kuni4.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50kuni5.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50kuni6.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50kuni7.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50kuni8.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
+
+LOAD DATA LOCAL INFILE 'C:/APS/dtdecrec50kuni9.txt'
+INTO TABLE tabela_sem_duplicidade_decrescente_50k
+FIELDS TERMINATED BY ',' 
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+(valores);
