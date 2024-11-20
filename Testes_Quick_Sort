@@ -1,0 +1,65 @@
+#include <iostream>
+#include <vector>
+#include <string>
+#include <chrono>
+#include <mysql_driver.h>
+#include <mysql_connection.h>
+#include <cppconn/statement.h>
+#include <cppconn/resultset.h>
+#include <cppconn/exception.h>
+
+int partition(std::vector<std::string>& data, int low, int high) {
+    std::string pivot = data[high];
+    int i = low - 1;
+
+    for (int j = low; j < high; j++) {
+        if (data[j] < pivot) {
+            i++;
+            std::swap(data[i], data[j]);
+        }
+    }
+    std::swap(data[i + 1], data[high]);
+    return i + 1;
+}
+
+void quickSort(std::vector<std::string>& data, int low, int high) {
+    if (low < high) {
+        int pi = partition(data, low, high);
+        quickSort(data, low, pi - 1);
+        quickSort(data, pi + 1, high);
+    }
+}
+
+int main() {
+    const std::string dbHost = "";
+    const std::string dbUser = "";
+    const std::string dbPass = "";
+    const std::string dbName = "";
+    const std::string tableName = "";
+
+    try {
+        sql::mysql::MySQL_Driver* driver = sql::mysql::get_mysql_driver_instance();
+        std::unique_ptr<sql::Connection> conn(driver->connect(dbHost, dbUser, dbPass));
+        conn->setSchema(dbName);
+
+        std::unique_ptr<sql::Statement> stmt(conn->createStatement());
+        std::unique_ptr<sql::ResultSet> res(stmt->executeQuery("SELECT valores FROM " + tableName));
+
+        std::vector<std::string> data;
+        while (res->next()) {
+            data.push_back(res->getString("valores"));
+        }
+
+        auto start = std::chrono::high_resolution_clock::now();
+        quickSort(data, 0, data.size() - 1);
+        auto end = std::chrono::high_resolution_clock::now();
+
+        auto duration = std::chrono::duration_cast<std::chrono::milliseconds>(end - start);
+        std::cout << "Tempo para ordenar " << tableName << " com Quick Sort: " << duration.count() << " ms" << std::endl;
+
+    } catch (sql::SQLException& e) {
+        std::cerr << "Erro SQL: " << e.what() << std::endl;
+    }
+
+    return 0;
+}
