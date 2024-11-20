@@ -1,0 +1,99 @@
+CREATE TABLE tabela_duplicidade_aleatorio_10 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_aleatorio_100 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_aleatorio_1k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_aleatorio_10k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_aleatorio_100k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_aleatorio_50 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_aleatorio_500 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_aleatorio_5k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_aleatorio_50k (valores VARCHAR(10));
+
+CREATE TABLE tabela_duplicidade_concavo_crescente_decrescente_10 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_concavo_crescente_decrescente_100 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_concavo_crescente_decrescente_1k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_concavo_crescente_decrescente_10k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_concavo_crescente_decrescente_100k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_concavo_crescente_decrescente_50 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_concavo_crescente_decrescente_500 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_concavo_crescente_decrescente_5k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_concavo_crescente_decrescente_50k (valores VARCHAR(10));
+
+CREATE TABLE tabela_duplicidade_convexo_crescente_decrescente_10 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_convexo_crescente_decrescente_100 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_convexo_crescente_decrescente_1k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_convexo_crescente_decrescente_10k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_convexo_crescente_decrescente_100k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_convexo_crescente_decrescente_50 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_convexo_crescente_decrescente_500 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_convexo_crescente_decrescente_5k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_convexo_crescente_decrescente_50k (valores VARCHAR(10));
+
+CREATE TABLE tabela_duplicidade_crescente_10 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_crescente_100 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_crescente_1k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_crescente_10k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_crescente_100k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_crescente_50 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_crescente_500 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_crescente_5k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_crescente_50k (valores VARCHAR(10));
+
+CREATE TABLE tabela_duplicidade_decrescente_10 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_decrescente_100 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_decrescente_1k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_decrescente_10k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_decrescente_100k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_decrescente_50 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_decrescente_500 (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_decrescente_5k (valores VARCHAR(10));
+CREATE TABLE tabela_duplicidade_decrescente_50k (valores VARCHAR(10));
+
+CREATE TABLE tabela_sem_duplicidade_aleatorio_10 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_aleatorio_100 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_aleatorio_1k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_aleatorio_10k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_aleatorio_100k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_aleatorio_50 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_aleatorio_500 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_aleatorio_5k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_aleatorio_50k (valores VARCHAR(10));
+
+CREATE TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_1k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_10k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_100k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_500 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_5k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_concavo_crescente_decrescente_50k (valores VARCHAR(10));
+
+CREATE TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_1k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_10k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_100k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_500 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_5k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_convexo_crescente_decrescente_50k (valores VARCHAR(10));
+
+CREATE TABLE tabela_sem_duplicidade_crescente_10 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_crescente_100 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_crescente_1k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_crescente_10k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_crescente_100k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_crescente_50 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_crescente_500 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_crescente_5k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_crescente_50k (valores VARCHAR(10));
+
+CREATE TABLE tabela_sem_duplicidade_decrescente_10 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_decrescente_100 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_decrescente_1k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_decrescente_10k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_decrescente_100k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_decrescente_50 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_decrescente_500 (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_decrescente_5k (valores VARCHAR(10));
+CREATE TABLE tabela_sem_duplicidade_decrescente_50k (valores VARCHAR(10));
